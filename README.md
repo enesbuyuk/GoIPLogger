@@ -2,5 +2,5 @@
 How to get IP in Go web server?
 ## Usage:
 ```
-GetIPAddress()
+GetIPAddress(w, r)
 ```
